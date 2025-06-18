@@ -12,12 +12,11 @@ DHM 是一种天然黄酮类化合物，具有抗炎、抗氧化和代谢调节�
 
 ## 数据来源
 
-- [DepMap Public ](https://depmap.org/portal/)  可单击后面的下载按钮下载。
-  - `sample_info.csv` [下载](https://dl-app.feijix.com/storage/files/2025/06/17/8/5064598828/17501689745221.gz?t=68517efa&rlimit=20&us=QUvKBIOcLA&sign=9f788deacfbc283ec02ef98799332588&download_name=sample_info.csv)
-  - `CCLE_expression.csv` [下载](https://dl-app.feijix.com/storage/files/2025/06/17/8/5064598828/175016897452313.gz?t=68517e7b&rlimit=20&us=ZrGzAokLmd&sign=093738a18d7256e83991b8638919d507&download_name=CCLE_expression.csv)
-  - `CRISPR_gene_effect.csv`  [下载](https://dl-app.feijix.com/storage/files/2025/06/17/8/5064598828/17501689745249.gz?t=68517ed5&rlimit=20&us=PjPaRfATs5&sign=cba86cd53adb842db2c57daeab38b2fd&download_name=CRISPR_gene_effect.csv)
-  - `Drug_sensitivity_(PRISM_Repurposing_Primary_Screen)_19Q4.csv`  [下载](https://dl-app.feijix.com/storage/files/2025/06/17/8/5064598828/17501689745245.gz?t=68517ee8&rlimit=20&us=vl5MxjOj8W&sign=c4ddb29342f599b8f258abc73662181f&download_name=Drug_sensitivity.csv)
-
+- [DepMap Public ](https://depmap.org/portal/)  
+  - `sample_info.csv` 
+  - `CCLE_expression.csv` 
+  - `CRISPR_gene_effect.csv` 
+  - `Drug_sensitivity_(PRISM_Repurposing_Primary_Screen)_19Q4.csv`  
 ## 分析内容与图表输出
 
 1. **小提琴图**：展示 "liver"、"lung"、"kidney"、"skin" 细胞系对 DHM 的敏感性差异；
